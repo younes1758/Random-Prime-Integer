@@ -32,7 +32,7 @@ def isPrime(x):
 
 
 
-#ex: get 50 random prime integer between 100 and 10000:
+#ex: get 50 random prime integers between 100 and 10000:
 bounds = [100, 10000]
 for i in range(50):
     x = getRandomPrimeInteger(bounds)
